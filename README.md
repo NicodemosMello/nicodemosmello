@@ -8,7 +8,7 @@ class Programmer
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/nicodemos-guimar%C3%A3es-de-mello-5b7795193/" target="_blank"><img align="center" src="https://github.com/nicodemosmello/nicodemosmello/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/nicodemos-guimar%C3%A3es-de-mello-5b7795193/" target="_blank"><img align="center" src="https://github.com/nicodemosmello/nicodemosmello/blob/master/linkedin.png?raw=true" alt="nicodemosmello" height="30" width="40" /></a>
     <a href="https://desenvolvendo.me" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true" alt="desenvolvendome" height="30" width="40" target="_blank"/></a>
     <a href="https://www.youtube.com/c/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>
     <a href="https://t.me/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/telegram.png?raw=true" alt="marcodotcastro" height="30" width="40"/></a>
