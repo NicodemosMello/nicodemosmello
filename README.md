@@ -1,11 +1,29 @@
 # Olá, eu sou Nicodemos Mello 
 ## Estou em transição de carreira 
 ## Este é o meu primeiro contato com Github
-### Bora aprender!!
-```Ruby
-class Programmer
 
-	def initialize() 
+### Bora aprender!!
+
+## **Estilo de textos**
+
+__Control + B, __ __ ou **** para texto em negrito__
+
+_Control + I, _ _ ou ** para texto em Itálico_
+
+~~Sem atalho, ~~ para texto Tachado~~
+
+**Texto em Negrito com _itálico_ aninhado** 
+
+***Texto todo em negrito e em itálico***
+
+Este é um texto <sub>Subscrito</sub>
+
+Este é um texto <sup>Sobrescrito</sup>
+
+
+
+````Ruby 
+ def initialize() 
 ```
 
 <p align="left">
