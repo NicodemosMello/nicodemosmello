@@ -1,6 +1,6 @@
 😊# Olá, eu sou Nicodemos Mello 
 👍## Estou em transição de carreira 
-![KevinHartStareGIF](https://github.com/nicodemosmello/nicodemosmello/assets/143765572/bf8227de-656c-41d0-bb99-c9d9808a9321)
+![KevinHartStareGIF](https://github.com/nicodemosmello/nicodemosmello/assets/143765572/bf8227de-65c-41d0-bb50-c9d9808a9321)
 ## Este é o meu primeiro contato com Github
 
 ### Bora aprender!!
