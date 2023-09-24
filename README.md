@@ -1,10 +1,10 @@
 # Olá, eu sou Nicodemos Mello 😊🤙 
 
-👍## Estou em transição de carreira 
+### Estou em transição de carreira 👍 
 
-😀## Este é o meu primeiro contato com Github
+### Este é o meu primeiro contato com Github 😀
 
-👍😉### Bora aprender!!
+### Bora aprender!! 👍😉
 
 ## **Brincando com as configs Estilo de textos**
 
