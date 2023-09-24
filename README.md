@@ -1,4 +1,4 @@
-😊🤙# Olá, eu sou Nicodemos Mello 
+#Olá, eu sou Nicodemos Mello 😊🤙 
 
 👍## Estou em transição de carreira 
 
