@@ -6,7 +6,7 @@
 
 👍😉### Bora aprender!!
 
-## **Estilo de textos**
+## **Brincando com as configs Estilo de textos**
 
 __Control + B, __ __ ou **** para texto em negrito__
 
