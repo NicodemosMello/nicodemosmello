@@ -26,11 +26,8 @@ Este é um texto <sup>Sobrescrito</sup>
 
 > Citando um texto com **símbolo** (>)
 
-R __Observação:__ Ao ver uma conversa, você pode citar automaticamneto o texto em um comentário realçando o texto e digitando R
 
-
-
-```Ruby 
+```Ruby
  def initialize() 
 ```
 
