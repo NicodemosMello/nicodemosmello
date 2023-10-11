@@ -1,30 +1,32 @@
 # Olá, eu sou Nicodemos Mello 😊🤙 
 
-### Estou em transição de carreira 👍 
+### Estou em transição de carreira para área da programação!! 👍 
 
-### Este é o meu primeiro contato com Github 😀
+### Este é o meu primeiro contato com Github e demais tecnologias utilizadas por programadores  😀
 
 ### Bora aprender!! 👍😉
 
-## **Brincando com as configs Estilo de textos**
+## ** No momento, seguindo as "Fases" da mentoria na (DesenvolvaMe), do Mestre Marcos Castro "https://github.com/marcodotcastro" a qual simula o dia a dia de um programador dedicado a resolver problemas, criar soluções numa aprendizagem contínua.**
 
-__Control + B, __ __ ou **** para texto em negrito__
+## Inicialmente estou aprendendo:
+A mudar ou aperfeiçoar fatores comportamentais como: eliminar maus hábitos, substituí-los ou fortalecer bons hábtitos, estabelecer prioridades, etc... Fatores relacionais como: trabalho em equipe, respeito aos colegas e às hierarquias... Enquanto isso, tenho me dedicado ao conhecimento e à prática diária das tecnologias e ao códigos... para desenvolver-me nas soft e hard skills conforme segue:
 
-_Control + I, _ _ ou ** para texto em Itálico_
 
-~~Sem atalho, ~~ para texto Tachado~~
+**Soft skills:**
+Comunicação, Colaboração, Disciplina, Foco, Autogestão, Autodidata, Trabalho em Equipe, Resolver Problema, Qualidade, Empatia e Resiliência
 
-**Texto em Negrito com _itálico_ aninhado** 
+**Hard Skills:**
+Projeto Básico
+Gestão e Planejamento de Projeto Ágil
+Ferramentas para Aumentar a Produtividade
+Desenvolvimento e Análise de Código
+Processo de Desenvolvimento, Entrega e Qualidade de Software
+Gestão de Versionamento Código
+Gestão de Qualidade de Código
 
-***Texto todo em negrito e em itálico***
+**Tecnologias e ferramentas:**
+Git, Github, Gitflow, Ruby, Linux, Terminal, Jetbrains IDE, Ruby on Rails, Herok, AWS, Slack, Gather, Postgres, Restful***
 
-Este é um texto <sub>Subscrito</sub>
-
-Este é um texto <sup>Sobrescrito</sup>
-
-### Textos de referência ###
-
-> Citando um texto com **símbolo** (>)
 
 
 ```Ruby
