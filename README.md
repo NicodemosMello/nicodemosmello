@@ -7,7 +7,7 @@
 ### No momento, seguindo as "Fases" da mentoria na (DesenvolvaMe), do Mestre Marcos Castro "https://github.com/marcodotcastro" a qual simula o dia a dia de um programador dedicado a resolver problemas, criar soluções numa aprendizagem contínua.
 
 ## Inicialmente estou aprendendo:
-A mudar ou aperfeiçoar fatores comportamentais como: eliminar maus hábitos, substituí-los ou fortalecer bons hábtitos, estabelecer prioridades, etc... Fatores relacionais como: trabalho em equipe, respeito aos colegas e às hierarquias... Enquanto isso, tenho me dedicado ao conhecimento e à prática diária das tecnologias e ao códigos. A cada manhã lembrando dos "Por quê(s)", vou com Fé, foco e força de vontade para desenvolver-me nas soft e hard skills conforme segue:
+A mudar ou aperfeiçoar fatores comportamentais como: eliminar maus hábitos, substituí-los ou fortalecer bons hábtitos, estabelecer prioridades, etc... Fatores relacionais como: trabalho em equipe, respeito aos colegas e às hierarquias... Enquanto isso, tenho me dedicado ao conhecimento e à prática diária das tecnologias e aos códigos. A cada manhã lembrando dos "Por quê(s)", vou com Fé, foco e força de vontade para desenvolver-me nas soft e hard skills conforme segue:
 
 
 **Soft skills:**
