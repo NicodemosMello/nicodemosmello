@@ -1,6 +1,8 @@
 # Olá, eu sou Nicodemos Mello 😊🤙 
 
-### Estou em transição de carreira para área da programação!! 👍😀
+### Depois de muitos anos na área administrativa, estou em transição de carreira para área da programação!! 👍😀
+### Já estou encantado com o mundo da programação, quero aprender muito!!
+### E "juntando" às minhas experiências e vivências, certamente terei muito a somar com meus novos colegas de trabalho e às futuras empresas!!!
 
 ### No momento, seguindo as "Fases" da mentoria na (DesenvolvaMe), do Mestre Marcos Castro "https://github.com/marcodotcastro" a qual simula o dia a dia de um programador dedicado a resolver problemas e criar soluções numa aprendizagem contínua.
 
